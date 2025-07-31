@@ -1,0 +1,9 @@
+path: ../data
+train: images/train
+val: images/val
+
+# classes
+nc: 2
+names:
+  0: stringing,
+  1: overextrusion
