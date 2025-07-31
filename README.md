@@ -2,7 +2,7 @@
 
 This project implements a real-time anomaly detection system for Fused Deposition Modeling (FDM), a common method in additive manufacturing (AM). Using a YOLOv5 model trained on a custom image dataset, the system detects and classifies process anomalies — specifically **stringing** and **over-extrusion** — as they occur during 3D printing.
 
-> 🎓 This work was presented as part of a publication at the **CIRP CMS conference** (doi: https://doi.org/10.1016/j.procir.2025.03.046).
+> 🎓 This work was presented as part of a publication at the **CIRP CMS conference**
 
 ---
 
