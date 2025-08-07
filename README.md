@@ -4,6 +4,8 @@ This project implements a real-time anomaly detection system for Fused Depositio
 
 > 🎓 This work was presented as part of a publication at the **CIRP CMS conference**
 
+<img width="445" height="334" alt="anomaly_pa" src="https://github.com/user-attachments/assets/ae1b66ba-c19f-4ed5-b281-65aa23dee718" />
+
 ---
 
 ## 📌 Abstract
